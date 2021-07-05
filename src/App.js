@@ -1,10 +1,11 @@
 import React from 'react';
-import './app.css'
+import './App.css';
+import Quote from './Components/Quote';
 
 function App() {
   return (
     <div>
-      Quote Generator
+      <Quote/>
     </div>
   )
 }
