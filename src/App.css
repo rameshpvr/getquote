@@ -63,3 +63,17 @@ button:hover {
     background-color: var(--light);
     color: var(--dark);
 }
+
+/* Footer */
+.footer {
+    text-align: center;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #131A26;
+}
+
+.footer a span{
+    vertical-align: middle;
+}
