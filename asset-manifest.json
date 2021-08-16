@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/getquote/static/css/main.1246124e.chunk.css",
+    "main.js": "/getquote/static/js/main.ababf3a3.chunk.js",
+    "runtime-main.js": "/getquote/static/js/runtime-main.84615467.js",
+    "static/js/2.e948dcc7.chunk.js": "/getquote/static/js/2.e948dcc7.chunk.js",
+    "index.html": "/getquote/index.html",
+    "static/js/2.e948dcc7.chunk.js.LICENSE.txt": "/getquote/static/js/2.e948dcc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84615467.js",
+    "static/js/2.e948dcc7.chunk.js",
+    "static/css/main.1246124e.chunk.css",
+    "static/js/main.ababf3a3.chunk.js"
+  ]
+}
