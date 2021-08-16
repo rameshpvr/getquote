@@ -3,23 +3,42 @@
 <h3 align="center">A WebApp Which Generates the Quotes</h3>
 
 # Tech Stack 📋
-  
-  1. `react.js`
-  2. `javascript`
-  3. `css`
 
+**Client:** React, CSS3
 
-# How to run locally 
-  
-  1. Clone this Repository
-  2. Do `npm install` to download the packages.
-  3. run `npm start`
+## Run Locally
 
-## App Info
+Clone the project
 
-<h3>License</h3>
+```bash
+  git clone https://github.com/rameshpvr/getquote.git
+```
 
-<h4>This project is licensed under the MIT License</h4>
+Go to the project directory
+
+```bash
+  cd Project Directory
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Run the Application
+
+```bash
+npm start
+```
+
+## ScreenShot
+
+![](./public/Quote_SC.png)
+
+## Badges
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
   
 
