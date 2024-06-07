@@ -1,4 +1,4 @@
-<h1 align="center">Quote Generator....</h1>
+<h1 align="center">Quote Generator.....</h1>
 
 <h3 align="center">A WebApp Which Generates the Quotes</h3>
 
